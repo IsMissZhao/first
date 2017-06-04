@@ -1,2 +1,3 @@
 这是新添加的good文件
 good better best
+best is best
