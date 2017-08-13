@@ -1,4 +1,4 @@
 ﻿Git is a version control system
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-170606修改了readme文件
+
+170606修改了readme文件（了呀）
